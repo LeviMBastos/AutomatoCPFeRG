@@ -4,5 +4,5 @@ Este repositório contém a implementação de um AFD para validação de RG e C
 
 ## Documentação
 
-- [Mapa de Transições](docs/mapa_de_transicoes.pdf)
-- [Representação do Autômato](docs/automato_desenhado.pdf)
+- [Mapa de Transições](docs/Mapa%20de%20Transições.pdf)
+- [Representação do Autômato](docs/AutomatoCpfRg.pdf)
